@@ -2,7 +2,7 @@
  O Triângulo de Sierpinski é um exemplo de fractal autossimilar, é uma figura que necessita de uma pilha de processos ou de alguma estrutura de dados auxiliar, similar a pilha de processos.
  
 ## Como mudar o nível?
- Para mudar o nível máximo do triangulo basta mudar a chamada de função na linha 30 da classe desenho </br>
+ Para mudar o nível máximo do triangulo basta mudar a chamada de função na linha 30 da classe Desenho </br>
  `criaTrianguloRecu(g, 0, 5, 0, ordenada, abscissa / 2, 0, abscissa, ordenada);` </br>
  o terceiro argumento diz o nível máximo que será calculado, altere para a quantidade desejada. </br>
 ## O triângulo mostrado pode não ser uma representação fiel do número digitado!
